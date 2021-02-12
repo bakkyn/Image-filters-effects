@@ -25,7 +25,7 @@ This effect is intended to give a cartoon image.
 The purpose of this filter is give the image of grass with pencil powder.
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/4.png)
 
-<b>BRoss Happy trees :D<br></b>
+<b>BRoss Happy trees:D<br></b>
 The purpose of this effect to get an oil painting look, even if not as good as Bob Ross did.
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/5.png)
 
