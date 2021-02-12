@@ -9,60 +9,60 @@ With the .py file, hints about the designed functions and necessary functions ar
 
 <b>DownsideUp <br></b>
 The purpose of this effect isreveal the object edges and show that
-on a black board.
+on a black board.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/1.png)
  
 <b>SoftB&W<br></b>
 The purpose of this filter is develop a softened black and white
-image, instead of a sharp one.
+image, instead of a sharp one.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/2.png)
 
 <b>Cartoonizer<br></b>
-This effect is intended to give a cartoon image.
+This effect is intended to give a cartoon image.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/3.png)
 
 <b>Ashe<br></b>
-The purpose of this filter is give the image of grass with pencil powder.
+The purpose of this filter is give the image of grass with pencil powder.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/4.png)
 
 <b>BRoss Happy trees:D<br></b>
-The purpose of this effect to get an oil painting look, even if not as good as Bob Ross did.
+The purpose of this effect to get an oil painting look, even if not as good as Bob Ross did.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/5.png)
 
 <b>Negative<br></b>
-This effect is intended to give a negative image.
+This effect is intended to give a negative image.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/6.png)
 
 <b>Cool<br></b>
-This function applied to getting an image with a sky blue color scale.
+This function applied to getting an image with a sky blue color scale.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/7.png)
 
 <b>CarbonPaper<br></b>
-It was aimed to draw the basic lines on the white board like copied from capon paper.
+It was aimed to draw the basic lines on the white board like copied from capon paper.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/8.png)
 
 <b>Warm<br></b>
-This function applied to getting an image with a warm color scale. 
+This function applied to getting an image with a warm color scale. <br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/9.png)
 
 <b>Master Sketcher<br></b>
-Expert drawing image obtained.
+Expert drawing image obtained.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/10.png)
 
 <b>ColoredMasterSketcher<br></b>
-Colored expert drawing image obtained.
+Colored expert drawing image obtained.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/11.png)
 
 <b>Emboss<br></b>
-With the emboss effect, it was aimed to apply embossing process by preserving the color values on the picture.
+With the emboss effect, it was aimed to apply embossing process by preserving the color values on the picture.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/12.png)
 
 <b>DownsideNeon<br></b>
-The purpose of this effect isreveal the object edges and show that on a black board with neon colors (its depend on image).
+The purpose of this effect isreveal the object edges and show that on a black board with neon colors (its depend on image).<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/13.png)
 
 <b>Marked<br></b>
-The purpose of this effect is,to take the image of the image marked in dim light.
+The purpose of this effect is,to take the image of the image marked in dim light.<br>
 ![alt text](https://github.com/bakkyn/Image-filters-effects/blob/main/results/14.png)
 
 
